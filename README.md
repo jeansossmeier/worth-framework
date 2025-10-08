@@ -1,2 +1,2 @@
-# worth.github.io
-WORTH: A Framework for Context-Driven Technology Decisions
+# WORTH: A Framework for Context-Driven Technology Decisions
+
