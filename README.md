@@ -1632,12 +1632,6 @@ Repeat this process. Over time, asking "Is it worth it?" becomes muscle memory, 
 <a name="blind-spots"></a>
 ## 16. Blind Spots Addressed
 
-### Newly Added Dogmas & Decision Areas
-
-The original WORTH framework covered major dogmas. Based on field testing and feedback, here are additional blind spots now addressed:
-
----
-
 #### Dogma: "TDD Is Mandatory or You're Reckless"
 
 **Why It's a Dogma**: TDD can add indirection and slow exploratory work; even its creators debate universal value.
@@ -1715,7 +1709,7 @@ TDD struggles for:
 
 ---
 
-### Missing Lenses Now Added
+### Other Lenses
 
 #### Security & Compliance Guard-Rails
 
