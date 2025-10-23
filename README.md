@@ -2,9 +2,9 @@
 
 *A pragmatic approach to cutting through dogma and making engineering choices that deliver real value*
 
-**Version:** 0.1
-**Author:** Jean Luck Sossmeier
-**Date:** October 2025
+**Version:** 1.0a \
+**Author:** Jean Luck Sossmeier \
+**Date:** October 2025 \
 **Repository:** [github.com/jeansossmeier/worth-framework](https://github.com/jeansossmeier/worth-framework)
 
 ---
