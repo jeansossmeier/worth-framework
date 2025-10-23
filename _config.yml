@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: "WORTH: A Framework for Context-Driven Technology Decisions"
 description: A pragmatic approach to cutting through dogma and making engineering choices that deliver real value
+show_downloads: false
+google_analytics: G-CGJK2N00ZS
